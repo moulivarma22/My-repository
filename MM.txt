@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome to Materal Managment(MM) Module -conlt
+=======
+Welcome to Materal Managment(MM) Modules
+>>>>>>> origin/master
